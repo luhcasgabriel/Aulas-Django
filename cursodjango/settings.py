@@ -112,7 +112,7 @@ AUTH_PASSWORD_VALIDATORS = [
 LANGUAGE_CODE = 'en-us'
 
 # data
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Sao_Paulo'
 
 # norma internacional - vai pegar a lingua de uma requisição internacional
 USE_I18N = True
@@ -121,7 +121,7 @@ USE_I18N = True
 USE_L10N = True
 
 # time zone
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)
